@@ -152,7 +152,8 @@ Open [http://localhost:3000](http://localhost:3000) and grant microphone permiss
 - **Zero unnecessary dependencies** — only what's needed, nothing more
 
 ---
-<img width="1394" height="727" alt="Screenshot 2026-08-24 at 9 21 00 PM" src="https://github.com/user-attachments/assets/1edc7960-b395-45b3-a462-4fd1a5d25866" />
-<img width="1355" height="786" alt="Screenshot 2026-08-24 at 9 20 47 PM" src="https://github.com/user-attachments/assets/3af1451b-62de-45b3-bbd8-563f693677cb" />
 <img width="1320" height="810" alt="Screenshot 2026-08-24 at 9 20 32 PM" src="https://github.com/user-attachments/assets/53949b20-6050-4a6e-afc2-5043f55adc58" />
+<img width="1355" height="786" alt="Screenshot 2026-08-24 at 9 20 47 PM" src="https://github.com/user-attachments/assets/3af1451b-62de-45b3-bbd8-563f693677cb" />
+<img width="1394" height="727" alt="Screenshot 2026-08-24 at 9 21 00 PM" src="https://github.com/user-attachments/assets/1edc7960-b395-45b3-a462-4fd1a5d25866" />
+
 
